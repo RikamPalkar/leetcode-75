@@ -64,4 +64,23 @@ GCD(6, 4) → GCD(4, 2) → GCD(2, 0) → 2
 Extract Common Substring
 Take substring from start of str1 with length 2
 str1.Substring(0, 2) → "AB"
+
+What is GCD?
+It’s the largest number that evenly divides both numbers without leaving a remainder.
+Example:
+Let’s say we have:
+a = 6
+b = 4
+The divisors of:
+6 are: 1, 2, 3, 6
+4 are: 1, 2, 4
+The greatest number that appears in both lists is 2, so:
+GCD(6, 4) = 2
+the Euclidean Algorithm?
+
+The Euclidean algorithm is an efficient method to find the Greatest Common Divisor (GCD) of two numbers.
+It’s based on a simple principle:
+The GCD of two numbers a and b is the same as the GCD of b and a % b.
+Formula
+GCD(a, b) = GCD(b, a % b)
 */
