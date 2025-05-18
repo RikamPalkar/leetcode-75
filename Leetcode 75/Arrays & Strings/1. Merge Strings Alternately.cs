@@ -1,7 +1,7 @@
 
 /*
 Leetcode 1768. Merge Strings Alternately
-
+Topic: String
 Approach (Step-by-Step):
 
 1. Initialize two pointers `l` and `r` to track the current index of `word1` and `word2`, respectively.
