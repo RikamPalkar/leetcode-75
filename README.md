@@ -43,9 +43,8 @@ Perfect for **revision, practice, and interview prep**.
 ## Topics
 1. Arrays / Strings  
 2. Two Pointers  
-3. Prefix Sum  
-4. Sliding Window
-5. Prefix Sum
+3. Sliding Window  
+4. Prefix Sum 
 6. Hash Map / Hash Set  
 7. Stack
 8. Queue
@@ -55,15 +54,15 @@ Perfect for **revision, practice, and interview prep**.
 11. Binary Search Tree  
 12. Graphs (DFS)
 13. Graphs (BFS)  
-14. Heap / Priority Queue  
-15. Backtracking  
-16. Binary Search  
-17. Dynamic Programming (1D + 2D)
-18. Dynamic Programming (Multi Multidimensional)  
-19. Bit Manipulation  
-20. Trie  
-21. Intervals  
-22. Monotonic Stack
+14. Heap / Priority Queue
+15. Binary Search  
+16. Backtracking  
+18. Dynamic Programming (1D)
+19. Dynamic Programming (Multi Multidimensional)  
+20. Bit Manipulation  
+21. Trie  
+22. Intervals  
+23. Monotonic Stack
 
 ---
 
